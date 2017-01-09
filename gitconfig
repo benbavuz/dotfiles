@@ -47,4 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	name = benjamin.bavuz@gmail.com
+	name = benjamin bavuz
+	email = benjamin.bavuz@gmail.com
